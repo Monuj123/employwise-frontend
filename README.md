@@ -1,7 +1,7 @@
 # EmployWise Frontend Assignment
 
 A React application that integrates with the Reqres API for user management with authentication, CRUD operations, and pagination.
-
+- **Live Demo**: https://employwise-frontend-2.netlify.app/
 ## Features
 
 - **User Authentication**: Login with JWT token storage
